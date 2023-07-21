@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class SaticVarMethoBlock_6 {
+public class SaticVarMethoBlock {
     static int a =13;
     static int b = 27;
 

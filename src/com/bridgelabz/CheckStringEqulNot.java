@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class CheckStringEqulNot_3 {
+public class CheckStringEqulNot {
     public static void main(String[] args) {
         String str1 = "kirti";
         String str2 = "hey";

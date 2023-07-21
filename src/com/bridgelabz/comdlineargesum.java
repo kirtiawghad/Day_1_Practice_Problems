@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class comdlineargesum_4 {
+public class comdlineargesum {
 
     public static void main(String[] args) {
         int sum = 0;

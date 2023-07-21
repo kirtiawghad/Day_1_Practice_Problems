@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class DataTypeDefaultValue_2 {
+public class DataTypeDefaultValue {
 
    static int in;
    static short sh;
